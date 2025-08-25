@@ -76,7 +76,3 @@ The goal is to identify distinct customer groups to help businesses target marke
   - Target marketing campaigns  
   - Identify premium customers  
   - Improve customer retention strategies  
-
----
-
-## 📂 Project Structure
